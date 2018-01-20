@@ -14,5 +14,5 @@ sudo apt-get install r-base-dev
 # Download and Install RStudio
 sudo apt-get install gdebi-core
 wget https://download1.rstudio.org/rstudio-xenial-1.1.414-amd64.deb
-sudo gdebi rrstudio-xenial-1.1.414-amd64.deb
+sudo gdebi rstudio-xenial-1.1.414-amd64.deb
 rm rstudio-xenial-1.1.414-amd64.deb
